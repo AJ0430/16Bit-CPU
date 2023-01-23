@@ -89,7 +89,6 @@
     </tool>
   </lib>
   <lib desc="#Soc" name="11"/>
-  <lib desc="file#Desktop/16-bit_computer-main/Video/video_card.circ" name="12"/>
   <main name="main"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
